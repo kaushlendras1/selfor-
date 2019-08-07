@@ -1,2 +1,2 @@
-# Bulk-Moz-Checker
+# Bulk Moz Checker
 Bulk DA &amp; PA Checker
