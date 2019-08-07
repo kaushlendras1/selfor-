@@ -12,4 +12,11 @@ Now Upload <strong>.zip</strong> file to make it live just extract it Done!
 
 # How To Use?
 
-Just install the script anywhere. Enter the websites separated by commas and click on Submit.
+Just install the script anywhere. 
+Edit
+```php
+ $accessid = 'mozscape-xxxxxxxxx'; 
+ $secretkey = 'xxxxxxxxxxxxxxxxxx'; 
+ 
+
+Enter the websites separated by commas and click on Submit.
