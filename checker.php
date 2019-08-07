@@ -1,4 +1,5 @@
 <?php
+#BULK MOZ CHECKER 
 ob_start();
 error_reporting(E_ALL ^ E_NOTICE);
 set_time_limit(0);
